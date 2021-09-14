@@ -294,6 +294,9 @@ img{
 .skills__subtitle{
     color: var(--first-color);
     margin-bottom: var(--mb-3);
+    background:white;
+    border-style: solid;
+    border-color: black;
 }
 .skills__name{
     display: inline-block;
